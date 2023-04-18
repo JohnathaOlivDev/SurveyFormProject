@@ -1,1 +1,1 @@
-A survey form developed as part of Responsive Web Design certification.
+A survey form developed as part of my Responsive Web Design certification.
